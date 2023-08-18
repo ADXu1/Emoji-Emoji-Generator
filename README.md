@@ -70,3 +70,6 @@ Push to the branch: git push origin feature/new-feature.
 Submit a pull request.
 
 # License
+MIT License
+
+Copyright (c) 2023 Chuanji Xu
