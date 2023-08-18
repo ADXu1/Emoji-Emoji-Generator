@@ -1,5 +1,10 @@
 # Emoji Generator
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DoUVw3Z3doep0I4yGU17S4_2TUsGHvj2#scrollTo=q-ddQJuBExJ-)
+
+
+
+
 A fun project that generates sentences using emojis based on user-provided keywords.
 
 
