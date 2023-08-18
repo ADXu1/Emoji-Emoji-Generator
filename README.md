@@ -37,8 +37,8 @@ Emoji Generator is a small web application that allows users to enter keywords, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/emoji-generator.git
-   cd emoji-generator
+   git clone https://github.com/ADXu1/Emoji-Emoji-Generator.git
+   cd Emoji-Emoji-Generator
    
 2. Create and activate a virtual environment (recommended):
    
